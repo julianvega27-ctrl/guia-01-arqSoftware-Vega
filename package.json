@@ -1,0 +1,27 @@
+{
+  "name": "guia-01-arqsoftware-vega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianvega27-ctrl/guia-01-arqSoftware-Vega.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/julianvega27-ctrl/guia-01-arqSoftware-Vega/issues"
+  },
+  "homepage": "https://github.com/julianvega27-ctrl/guia-01-arqSoftware-Vega#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
